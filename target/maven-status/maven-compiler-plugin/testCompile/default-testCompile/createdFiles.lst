@@ -1,0 +1,10 @@
+key/Keys.class
+scenario/page/LoginPage.class
+scenario/test/LoginTest.class
+scenario/page/OrderPage.class
+scenario/util/Configuration.class
+factory/DriverFactory.class
+scenario/base/BasePage.class
+scenario/base/BaseTest.class
+scenario/page/MainPage.class
+scenario/test/OrderTest.class
