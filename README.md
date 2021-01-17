@@ -1,4 +1,3 @@
-# amazon.web.automation
 Technologies Covered in This Project
 ====================================
 
