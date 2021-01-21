@@ -4,8 +4,8 @@ public class Keys {
 
     public static final String PLAYSTATION4 = "Playstation 4";
     public static final String PLAYSTATION = "PlayStation";
-    public static final String THREE_HUNDRED = "300";
-    public static final String THREE_HUNDRED_FIFTY = "350";
+    public static final String FOUR_HUNDRED = "400";
+    public static final String FIVE_HUNDRED_FIFTY = "550";
     public static final String RAYENHOLM_ELECTRONICS = "Ravenholm Electronics";
     public static final String TURKEY = "Turkey";
     public static final String SUMEYYE_KARAKUS = "Sumeyye Karakus";

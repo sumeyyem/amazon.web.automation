@@ -30,6 +30,7 @@ public class OrderPage extends BasePage {
     private static final By GO_BUTTON = By.xpath("//*[@id='a-autoid-1-announce']/..");
     private static final By REMOVE_ADDRESS_BUTTON = By.cssSelector("[data-action='checkout-delete-address']");
     private static final By PLACE_YOUR_ORDER = By.xpath("(//*[@class='a-button-text place-your-order-button'])[1]");
+    private static final By BUY_NOW_BUTTON = By.cssSelector("[id='buy-now-button']");
 
     public OrderPage(RemoteWebDriver driver) {
 
@@ -89,6 +90,12 @@ public class OrderPage extends BasePage {
     public OrderPage clickFirstProductOnTheList() {
 
         clickElement(FIRST_PRODUCT_ON_THE_LIST);
+        return this;
+    }
+
+    public OrderPage clickBuyNowButton() {
+
+        clickElement(BUY_NOW_BUTTON);
         return this;
     }
 
