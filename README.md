@@ -8,7 +8,7 @@ Technologies Covered in This Project
 [TestNG](https://testng.org/doc/) is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use.
 
 Building and Running the Project
-================================
+===============================
 
 ## Prerequisites
 There are a few things needed before you run the tests. Make sure you have the latest versions of the following installed:
